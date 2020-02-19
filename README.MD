@@ -43,7 +43,7 @@ underline 2
 
 ![logo de github](https://image.flaticon.com/icons/png/512/38/38401.png)
 
-# Code snippets
+# Code snippets.
 Codigo en JSON
 
 ```JSON
