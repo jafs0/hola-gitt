@@ -114,7 +114,7 @@ Esto es un texto que sera dividido por rayita bajas.
 
 ___
 
-# Saltos de lineas
+# Saltos de lineas.
 Esto es nuestro primer parrafo.
 
 Esto es nuestro segundo parrafo.
