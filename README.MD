@@ -39,7 +39,7 @@ underline 2
 - [Esto es un link en markdown](http//www.google.com)
 - [Esto es un link al index](index.html)
 
-# Imagenes
+# Imagenes.
 
 ![logo de github](https://image.flaticon.com/icons/png/512/38/38401.png)
 
