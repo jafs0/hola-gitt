@@ -102,7 +102,7 @@ Esto es un texto referente a una cita:
 
 > esto es otra cita.
 
-# Lineas divisoras
+# Lineas divisoras.
 
 Esto es un texto que sera dividido por guines medios.
 
