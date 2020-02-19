@@ -94,7 +94,7 @@ export  $initHighlight;
 | Juan   | Florian  | 406263883 |
 | Carlos | Coiscou  | 402040403 |
 
-# Citas
+# Citas.
 
 Esto es un texto referente a una cita:
 
